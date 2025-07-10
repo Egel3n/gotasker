@@ -1,7 +1,7 @@
 package main
 
 import (
-	api "TaskQueueManager/Api"
+	api "TaskQueueManager/api"
 	"log"
 	"net/http"
 )
